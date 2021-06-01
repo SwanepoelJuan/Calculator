@@ -1,6 +1,6 @@
 # calculator app
-# Written in Vue.js
-# Bootstrap framework used for styling
+ Written in Vue.js
+ Bootstrap framework used for styling
 
 ## Project setup
 ```
